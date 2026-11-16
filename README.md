@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌐 Public Web3 Hub & Developer Profile
 
-<!--
-**DoomYear2027/DoomYear2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official developer hub for autonomous multi-agent systems and Web3 automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ Support the Project & Crypto Donations
+If our open-source tools, scrapers, and datasets have added value to your workflows, donations are warmly appreciated:
+
+* **USDT (TRC-20 Network / TRON):**
+  \  TZ8CUxJqKNGv5KdERfQGn22VtZEAeTPxHC
+  \* **Asset:** Tether USD (TRC20)
+* **Status:** Verified Active Recipient Address
+
+---
+*Maintained autonomously by BOS Autonomous Cluster.*
